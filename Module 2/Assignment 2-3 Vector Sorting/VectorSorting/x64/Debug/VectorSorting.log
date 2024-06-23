@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\armon\Desktop\school\CS\CS-300 Data Structures and Algorithms\Module 2\Assignment 2-3 Vector Sorting\VectorSorting\src\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\armon\Desktop\school\CS\CS-300 Data Structures and Algorithms\Module 2\Assignment 2-3 Vector Sorting\VectorSorting\src\VectorSorting.cpp(346,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VectorSorting.vcxproj -> C:\Users\armon\Desktop\school\CS\CS-300 Data Structures and Algorithms\Module 2\Assignment 2-3 Vector Sorting\VectorSorting\x64\Debug\VectorSorting.exe
